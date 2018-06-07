@@ -11,7 +11,15 @@ class Participants
     
         //Fill in your details in the same format as given above
         
-        
+        students[1] = new Student();
+        students[1].name = "Aslesh";
+        students[1].rollnum = "CS17B049";
+        students[1].likegit = true;
+
+	students[2] = new Student();
+        students[2].name = "lalitha";
+        students[2].rollnum = "CE17B063";
+        students[2].likegit = true;
         
         
         
